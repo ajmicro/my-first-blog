@@ -1,8 +1,12 @@
+.header-image{
+    background-image: url("C:\Users\Enduser\Documents\GitHub\djangogirls\blog\templates\blog\images\Header.png");
+}
 .page-header {
     background-color: #C25100;
     margin-top: 0;
     margin-bottom: 40px;
     padding: 20px 20px 20px 40px;
+    
 }
 
 .page-header h1,
